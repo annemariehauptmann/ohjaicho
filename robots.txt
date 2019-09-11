@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://otheixiey.pbadhesives.com/sitemap.xml
